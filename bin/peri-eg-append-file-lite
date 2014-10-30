@@ -1,0 +1,14 @@
+#!perl
+
+# DATE
+# VERSION
+
+use Perinci::CmdLine::Lite;
+Perinci::CmdLine::Lite->new(url=>'/Perinci/Examples/FileStream/append_file')->run;
+
+# ABSTRACT: Append file
+# PODNAME: peri-eg-append-file-lite
+
+=head1 SYNOPSIS
+
+=cut

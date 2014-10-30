@@ -1,0 +1,14 @@
+#!perl
+
+# DATE
+# VERSION
+
+use Perinci::CmdLine::Lite;
+Perinci::CmdLine::Lite->new(url=>'/Perinci/Examples/FileStream/read_file')->run;
+
+# ABSTRACT: Read file
+# PODNAME: peri-eg-read-file-lite
+
+=head1 SYNOPSIS
+
+=cut

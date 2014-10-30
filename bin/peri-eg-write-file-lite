@@ -1,0 +1,14 @@
+#!perl
+
+# DATE
+# VERSION
+
+use Perinci::CmdLine::Lite;
+Perinci::CmdLine::Lite->new(url=>'/Perinci/Examples/FileStream/write_file')->run;
+
+# ABSTRACT: Write file
+# PODNAME: peri-eg-write-file-lite
+
+=head1 SYNOPSIS
+
+=cut
