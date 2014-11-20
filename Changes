@@ -1,5 +1,10 @@
 Revision history for Perinci-Examples-Bin-Lite
 
+0.04    2014-11-20 (PERLANCAR)
+
+        - Add script: peri-eg-demo-cli-opts-lite.
+
+
 0.03    2014-10-30 (PERLANCAR)
 
 	- Add scripts: peri-eg-{append,read,write}-file-lite (using the
