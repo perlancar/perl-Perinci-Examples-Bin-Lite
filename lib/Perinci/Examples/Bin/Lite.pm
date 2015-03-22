@@ -16,8 +16,8 @@ L<Perinci::CmdLine::Lite>.
 
 =head1 SEE ALSO
 
-L<Perinci::Examples::Bin>
-
 L<Perinci::Examples::Bin::Any>
+
+L<Perinci::Examples::Bin::Classic>
 
 =cut
